@@ -1,0 +1,21 @@
+{
+  "name": "e2e_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -c jest.config.js",
+    "test:single": "jest -c jest.config.js -t"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect-puppeteer": "^6.1.0",
+    "jest": "^27.5.1",
+    "jest-junit": "^13.0.0",
+    "puppeteer-core": "^13.5.1"
+  },
+  "devDependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}

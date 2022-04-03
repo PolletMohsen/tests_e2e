@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="1" errors="0" time="100.945">
+  <testsuite name="#login" errors="0" failures="1" skipped="0" timestamp="2022-04-03T08:27:51" time="100.841" tests="1">
+    <testcase classname="#login test ay 7aga " name="#login test ay 7aga " time="0.001">
+      <failure>TimeoutError: Navigation timeout of 100000 ms exceeded
+    at /home/oem/e2e_automation/node_modules/puppeteer/src/common/LifecycleWatcher.ts:211:18</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
